@@ -6,6 +6,8 @@ Then, the data are restricted to those presented in the published works and it i
 
 In this sense, we organized this database with model data (or training) and test data. We indicate the images used in the construction of template images and the images used in the tests. For the test images, we indicate their defoliation percentage in three groups: from 1 to 15%, from 16 to 30%, and from 31 to 45%.
 
+This dataset contains 12 plant species: apple, blueberry, cherry, corn, grape, peach, pepper, potato, raspberry, soybean, strawberry and tomato. It is based on the dataset  [https://github.com/spMohanty/PlantVillage-Dataset](https://github.com/spMohanty/PlantVillage-Dataset)
+
 Original papers URL: 
 
 [https://www.sciencedirect.com/science/article/pii/S2772375522000211](https://www.sciencedirect.com/science/article/pii/S2772375522000211)          
