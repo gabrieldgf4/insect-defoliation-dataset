@@ -1,7 +1,5 @@
 # insect-defoliation-dataset
 
-# insect_defoliation
-
 Defoliation estimation methods are difficult to be compared with each other because there is no benchmarking for this purpose. Researchers use their own database which is not accessible to the general public. 
 
 Then, the data are restricted to those presented in the published works and it is not possible to verify the variability of the samples such as lighting conditions, leaf format and position, and background complexity. Also, leaf images with damage caused by real insects or artificial leaf canopy damage used in experimental tests are difficult to reproduce in order to compare the results.
@@ -30,7 +28,7 @@ If you use this project, cite:
         year={2022}
     }
 
-![alt tag](https://user-images.githubusercontent.com/63321757/180870855-387484c8-6edd-4c7c-9c76-83218c656767.png)
+![alt tag](https://user-images.githubusercontent.com/63321757/180873122-244e57c0-21e6-4990-9120-74d8df3f726a.png)
 
 You can download the code by:
 
